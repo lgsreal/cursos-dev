@@ -5,4 +5,4 @@ Categorias:
 -->
 
 ## Front End
-- [Angular para iniciantes + TypeScript (inglês)](https://www.freecodecamp.org/news/angular-for-beginners-course/)
+- <a href="https://www.freecodecamp.org/news/angular-for-beginners-course/" target="_blank">Angular para iniciantes + TypeScript (inglês)</a>
